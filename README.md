@@ -1,4 +1,4 @@
-# AI-Powered Conversational CSV Data Analyst
+# AI-Powered Conversational CSV Analysis System
 
 A Python-based conversational data analysis tool that enables users to explore any CSV dataset using natural language. The application combines **Pandas** for deterministic statistical computation with the **Google Gemini API** for contextual interpretation, ensuring that numerical results are calculated locally while AI is used only to explain the analytics.
 

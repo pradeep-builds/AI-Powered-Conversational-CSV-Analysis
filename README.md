@@ -212,9 +212,4 @@ __pycache__/
 ## Author
 
 **Pradeep Rajkumar**
-
-M.Sc. Data Science, VIT Vellore
-
-## License
-
-This project is licensed under the MIT License.
+contact: pradeeprajkumar025@gmail.com
